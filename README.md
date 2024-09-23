@@ -2,7 +2,7 @@
 
 > A sleek and intuitive job application tracking web app built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
-[![](https://drive.google.com/uc?export=view&id=1KC481VyiEHG68sLuvZ42aBKvE_Y8x798)](https://www.youtube.com/watch?v=VIDEO_IDhttps://youtu.be/7bvOGvIMqS0)
+[![](https://drive.google.com/uc?export=view&id=1KC481VyiEHG68sLuvZ42aBKvE_Y8x798)](https://youtu.be/7bvOGvIMqS0)
 
 ## Features
 
